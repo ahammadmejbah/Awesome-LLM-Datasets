@@ -75,7 +75,7 @@
 
 <div align="center">
 
-## ⚡ Awesome VLSI (Very Large-Scale Integration) Datasets
+## ⚡ VLSI (Very Large-Scale Integration) Datasets
 
 | Serial  | Dataset | Domain | Field / Task | Scale | Strength | Type | Source |
 |---|---|---|---|---|---|---|---|
